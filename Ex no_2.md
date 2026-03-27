@@ -9,8 +9,8 @@ To write a program to check whether the attendance is PRESENT using simple if st
 ## Program:
 ```/*
 Program to check whether the attendance is PRESENT using simple if statement.
-Developed by: SARATH KUMAR.K
-RegisterNumber: 212222063014
+Developed by: ARAVINDHAN K A P
+RegisterNumber: 212222063001
 */
 #include<stdio.h> 
 int main(){
