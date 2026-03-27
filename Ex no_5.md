@@ -9,8 +9,8 @@ Start the program. Read marks of 7 subjects from the user and calculate the tota
 ```
 /*
 Program to calculate the total marks, average, and percentage of marks obtained in seven subjects.
-Developed by: SARATH KUMAR.K
-RegisterNumber: 212222063014
+Developed by: ARAVINDHAN K A P
+RegisterNumber: 212222063001
 */
 
 #include <stdio.h>
