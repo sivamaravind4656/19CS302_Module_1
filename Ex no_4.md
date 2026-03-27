@@ -9,8 +9,8 @@ To write a C program to read the age of a person and determine whether he is eli
 ## Program:
 ```/*
 Program to read the age of a person and determine whether he is eligible for marriage (eligible if age ≥ 21).
-Developed by: SARATH KUMAR.K
-RegisterNumber: 212222063014
+Developed by: ARAVINDHAN K A P
+RegisterNumber: 212222063001
 #include <stdio.h>
 int main() {
     int age;
